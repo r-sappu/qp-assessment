@@ -1,0 +1,15 @@
+{
+	"GroceryDetails":[{
+        "name":"Milk",
+        "quantity":500,
+        "unit":3,
+        "price":130,
+        "info":"Sudha Milk"
+    },{
+        "name":"Honey",
+        "quantity":100,
+        "unit":5,
+        "price":250,
+        "info":"Dabur Honey"
+    }]
+}

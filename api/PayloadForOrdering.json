@@ -1,0 +1,12 @@
+{
+  "customer_id": "12345",
+  "items": [
+    {
+      "item_id": "Milk",
+      "quantity": 2
+    },
+    {
+      "item_id": "Honey",
+      "quantity": 1
+    }]
+}
